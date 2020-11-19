@@ -1,16 +1,14 @@
-### Hi there I'm Justin 👋
+### ⚠️ Hi there I'm ✨Justin✨ 👋
 
-<!--
-**xJustin/xJustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working full time at Red Hat
+- 🌱 I’m trying to learn Python
+- 👯 I’m looking to collaborate on more open source docs.
+- 💬 Ask me about FPV quads 
+- 📫 How to reach me: email
+
+- ⚡ Fun fact: 💰 Galleon or Gold-Galleon (ʛ) is the most valued coin of the wizarding currency. One Galleon is equal to 17 Sickles or 493 Knuts. Galleons are made of gold. In the late 20th century, the Galleon was also equivalent to £4.97 GBP, or $10.17 USD.💰
+
+
+
