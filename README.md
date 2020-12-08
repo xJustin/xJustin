@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working full time at Red Hat
-- 🌱 I’m trying to learn Python
+- 🌱 I’m learning new things
 - 👯 I’m looking to collaborate on more open source docs.
 - 💬 Ask me about FPV quads 
 - 📫 How to reach me: email
