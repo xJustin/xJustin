@@ -2,9 +2,9 @@
 
 
 
-- 🔭  Currently, I work full time at Red Hat.
-- 🌱  I’m learning Python. 
-- 👯  Let's collaborate on some open source docs.
+- 🔭  Currently, I work full time at Red Hat
+- 🌱  I’m always learning new things.
+- 👯  Let's collaborate on some open source docs
 - 💬  Ask me about FPV quads 
 - 📫  How to reach me: email
 
