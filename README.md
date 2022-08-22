@@ -5,7 +5,7 @@
 - 🔭  Currently, I work full time at Red Hat
 - 🌱  I’m always learning new things.
 - 👯  Let's collaborate on some open source docs
-- 💬  Ask me about FPV quads 
+- 🚲  I ride my bike all over in my free time.
 - 📫  How to reach me: email
 
 
